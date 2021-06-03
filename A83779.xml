@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The eighth liberal science or a new-found-art and order of drinking. With a true description of their school and library, the degrees taken there, the tongues studied there, the several titles proper to the professors of that art, both civil and martial, viz. To the universitie men. The inns of court and chancery. The army and souldiery. The sea men, or seller-service-men. Also, penal statutes enacted in drinking, proverbs used amongst them, with divers stories of such whom immoderate drinking hath made ridiculous.</title>
+         </titleStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83779</idno><idno type="EEBO-CITATION">99868189</idno>
+  <idno type="VID">169885</idno>
+  <idno type="EEBO-PROQUEST">2240951168</idno>
+  
+            <idno type="STC">Wing E266</idno>
+            <idno type="STC">Thomason E1378_2</idno>
+            <idno type="STC">ESTC R209306</idno>
+            <idno type="PROQUEST">99868189</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868189e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83779)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169885)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 180:E1378[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The eighth liberal science or a new-found-art and order of drinking. With a true description of their school and library, the degrees taken there, the tongues studied there, the several titles proper to the professors of that art, both civil and martial, viz. To the universitie men. The inns of court and chancery. The army and souldiery. The sea men, or seller-service-men. Also, penal statutes enacted in drinking, proverbs used amongst them, with divers stories of such whom immoderate drinking hath made ridiculous.</title>
+               </titleStmt>
+               <extent>[32] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A. near the Upper Pump in Grub-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B.</note>
+                  <note>Annotation on Thomason copy: "Aug. 10".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Drinking of alcoholic beverages --  England --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169885:1"/>
+            <p>THE EIGHTH Liberal Science: OR A new-found-<hi>ART</hi> and <hi>ORDER</hi> OF DRINKING. <hi>WITH</hi> A true Description of their <hi>School</hi> and <hi>Li<g ref="char:EOLhyphen"/>brary,</hi> the Degrees taken there, The Tongues Studied there, The several Titles proper to the Professors of that <hi>Art,</hi> both Civil and Martial, <hi>Viz.</hi> To
+<list>
+                  <item>The Universitie men.</item>
+                  <item>The Inns of Court and Chancery.</item>
+                  <item>The Army and Souldiery.</item>
+                  <item>The Sea men, or Seller-service-men.</item>
+               </list>
+            </p>
+            <p>Also, Penal Statutes enacted in Drinking, Pro<g ref="char:EOLhyphen"/>verbs used amongst them, with divers Stories of such whom immoderate Drinking hath made ridiculous.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>B. A.</hi> near the Upper Pump in <hi>Grub-street,</hi> 1650.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:169885:2"/>
+            <p>
+               <figure>
+                  <figDesc>man drinking</figDesc>
+                  <lg>
+                     <l>I hold that I love,</l>
+                     <l>As here you may see,</l>
+                     <l>Yet love not too much</l>
+                     <l>Lest you be like me.</l>
+                  </lg>
+               </figure>
+            </p>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:169885:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:169885:3"/>
+            <pb facs="tcp:169885:3"/>
+            <head>The new DISCIPLINE Or School of Drunkards.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Divel is the father of lies, and Drunkenness the Author of mischiefs; yet saith our wit<g ref="char:EOLhyphen"/>ty drunkards the Devill can<g ref="char:EOLhyphen"/>not be our father. For the an<g ref="char:EOLhyphen"/>cient Proverb saith, <hi>in vino veritas,</hi> in wine there is truth; the Drunkard tells truth, which speaks us to be of no kin to the Divel; indéed there is no such vice but he that is
+<pb facs="tcp:169885:4"/> accustomed to it hath a colour for it.</p>
+            <p>The originall or beginning of Drunken<g ref="char:EOLhyphen"/>ness hath been much disputed among our <hi>Ba<g ref="char:EOLhyphen"/>chanalians,</hi> but generally concluded in <hi>Noah,</hi> and if there if had its rise, it brought forth with it that accursed sin of incest, which was the cause of divers other sins not much infe<g ref="char:EOLhyphen"/>rior from all which I do heartily pray this Nation may be acquited of.</p>
+            <p>There is no Nation or Kingdome that is totally clear of this vice; and this Nation of ours, now taken to be most addicted to it, that our accustomed terms and phrases used in our quaffing cups, by other Nations are cast in our dishes.</p>
+            <p>Yet to let those Nations know, they come not far short of us, I will give you a taste of their vinosity.</p>
+            <p>The Danes have mad<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a profession there<g ref="char:EOLhyphen"/>of from Antiquity, and ar<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the first upon Re<g ref="char:EOLhyphen"/>cord that brought their wassel-bowls, and elbow deep healths into this land: it would ask too long a discourse to tell when and how the Swethians, Norwayians, Finlander, Loplander, Greenlander, with other inferior nations, all bred in cold cli<g ref="char:EOLhyphen"/>mats, love to warm themselves within, and where Wine is wanting they have confecti<g ref="char:EOLhyphen"/>ons
+<pb facs="tcp:169885:4"/> made of honey, and other ingredients, with which they will drink themselves so far out of their sences, that though they be unco<g ref="char:EOLhyphen"/>vered upon the Ice or frozen earth hid with snow in the very depth of their winter yet for the present they are not sensible of the bitter weather, or airs distemperature.</p>
+            <p>It is further observed that the Cooler the Climats are, the more the inhabitants are addicted to strong and intoxicating drinks, of which they provide themselves great plen<g ref="char:EOLhyphen"/>ty and much variety.</p>
+            <p>The Italians are something moderate; yet at certain times, either at the Cele<g ref="char:EOLhyphen"/>bration of publick Feasts, or private Ban<g ref="char:EOLhyphen"/>quets, they wil take their rouse freely though not commonly. The French are our neigh<g ref="char:EOLhyphen"/>bours, I will spare to speak much of them, but it seems they love the best of their own Grapes so well that they kéep the choice and chief wines to themselves, and send the smallest and refuse into England and other Countries. The Spaniards notwithstan<g ref="char:EOLhyphen"/>ding they have such choice and plenty, yet are they to be commended for their temperance, drunkennesse being a vice, so much hated generally amongst them, that whosoever hath béen noted to be a Delinquent in that kind,
+<pb facs="tcp:169885:5"/> he is neither admitted to be of any Iury, nei<g ref="char:EOLhyphen"/>ther in his best sobriety will his evidence be taken in any matter of controversie. The Transilvanians, Wallachians, Hungari<g ref="char:EOLhyphen"/>ans, Bohemians, Polanders, <hi>&amp;c.</hi> for the most part drink after the Dutch, neither can any of these free Principalities and Provinces belonging to the Empire be freed of the great aspersion, which is layd upon whole Germany in generall. The Russian, hath his quasse. The Scot, his ale. The Welch, Metheglin. The Irish Vsqueba'h, and none of these but hath sometimes the operation to make midday, look with them like midnight. But from other natiōs, I return now to our English Drunkards, we by comparing their riots, excesses, intemperances, surfeits, va<g ref="char:EOLhyphen"/>rioties of drinks, and choice ways of quaf<g ref="char:EOLhyphen"/>fing with ours frequent in our land, shall ea<g ref="char:EOLhyphen"/>sily find, that we are so far from coming short of them, in any one thing, that we apparent<g ref="char:EOLhyphen"/>ly exceed them in all things; first whereas other languages afford but some few words, as amongst the Grecians <hi>Phylocothonista;</hi> the Latines, <hi>Ebrius or Bibax;</hi> the Spaniards, <hi>Bo<g ref="char:EOLhyphen"/>rachio;</hi> the French, <hi>Yurogne;</hi> the Italian, <hi>Boraco</hi> and so of the rest: To title a Drun<g ref="char:EOLhyphen"/>kard by, we strive to character him in a more
+<pb facs="tcp:169885:5"/> mincing and modest phrase, as thus.</p>
+            <p>
+               <list>
+                  <head>The titles they give one to another.</head>
+                  <item>He is a good fellow.</item>
+                  <item>A boon Companion.</item>
+                  <item>A mad Greek.</item>
+                  <item>A true Trojan.</item>
+                  <item>A stiffe Blade.</item>
+                  <item>One that is steel to the Back.</item>
+                  <item>A sound Card.</item>
+                  <item>A merry Comrade.</item>
+                  <item>A Low-Country Souldier.</item>
+                  <item>One that will take his rouse.</item>
+                  <item>One that will drink deep, though it be a mile to the bottom.</item>
+                  <item>One that knows how the Cards are dealt.</item>
+                  <item>One that will be flush of all four.</item>
+                  <item>One that will be as subtile as a Fox.</item>
+                  <item>One that will drink till the ground looks blew.</item>
+                  <item>One that will wind up his bottoms.</item>
+                  <item>One that bears up stiff.</item>
+                  <item>One whose nose is dirty.</item>
+                  <item>One whom Brewers horse hath bitte.</item>
+                  <item>One that can relish all waters.</item>
+                  <item>One that knows of which side his bread is butter'd</item>
+                  <item>One that drinks Upse-Freeze.</item>
+                  <pb facs="tcp:169885:6"/>
+                  <item>One that drinks Supernaculum.</item>
+                  <item>One that lays down his ears and drinks.</item>
+                  <item>One that can sup of his Cyder.</item>
+                  <item>He is true blew, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The new order of drinking lately come up a<g ref="char:EOLhyphen"/>mongst us called a <hi>Drinking-school,</hi> or <hi>Libra<g ref="char:EOLhyphen"/>ry,</hi> the degrees taken in the School: the tongues and books which they studie, with the several ti<g ref="char:EOLhyphen"/>tles proper to the Professors of that Art.</p>
+            <p>There is now professed an eighth liberal Art or science called <hi>Ars bibendi,</hi> the Art of drinking. The Students or professors there<g ref="char:EOLhyphen"/>of call a green garlād, or painted hoop hanged out, a <hi>Colledge;</hi> a sign where there is lodging, mans meat, and horse meat an <hi>Inne of Court,</hi> an <hi>Hall,</hi> or an <hi>Hostle;</hi> where nothing is sold but Ale &amp; Tobacco <hi>Grammer School:</hi> A red or blew Lettice they term <hi>a free School</hi> for all commers.</p>
+            <p>Now we know in all Schools there are severall degrees to be attained unto there<g ref="char:EOLhyphen"/>fore they in their déep understandings, and profound Iudgement, have thought it expe<g ref="char:EOLhyphen"/>dient to call,</p>
+            <p>A fat Corpulent fellow, <hi>A Master of Art.</hi>
+            </p>
+            <p>A lean drnnkard, <hi>A Batchelor.</hi>
+            </p>
+            <p>He that hath a purple face, inch<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c't with
+<pb facs="tcp:169885:6"/> Rubies, and such other Ornaments, <hi>A Bat<g ref="char:EOLhyphen"/>chelor of Law.</hi>
+            </p>
+            <p>He that hath a Red-nose, <hi>A Doctour.</hi>
+            </p>
+            <p>And he that goeth to School by six of the clock in the morning and hath his lesson per<g ref="char:EOLhyphen"/>fect by eleven, him they hold to be, <hi>a Preg<g ref="char:EOLhyphen"/>nant Scholler,</hi> and grace him with that title.</p>
+            <p>
+               <hi>Now before they go to study, at what time of the day or night soever, it is fit to know what language.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>If the English tongue,</cell>
+                     <cell rows="10">He drinks</cell>
+                     <cell>Ale.</cell>
+                  </row>
+                  <row>
+                     <cell>If the Dutch,</cell>
+                     <cell>Beer.</cell>
+                  </row>
+                  <row>
+                     <cell>If the Spanish,</cell>
+                     <cell>Sack or Canary.</cell>
+                  </row>
+                  <row>
+                     <cell>If the Italian,</cell>
+                     <cell>Bastard,</cell>
+                  </row>
+                  <row>
+                     <cell>If the Grecian,</cell>
+                     <cell>Rennish or Palermo.</cell>
+                  </row>
+                  <row>
+                     <cell>If the Irish,</cell>
+                     <cell>Usqueba'he.</cell>
+                  </row>
+                  <row>
+                     <cell>If Welch,</cell>
+                     <cell>Metheglin.</cell>
+                  </row>
+                  <row>
+                     <cell>If Latine,</cell>
+                     <cell>Alligant.</cell>
+                  </row>
+                  <row>
+                     <cell>If Greek,</cell>
+                     <cell>Muskadell.</cell>
+                  </row>
+                  <row>
+                     <cell>If Hebrew,</cell>
+                     <cell>Hypocras.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The Books which they study, and whose leaves they turn over, are for the most part three of the old translation and three of the new: Those of the old translation:
+<list>
+                  <item>First, the <hi>Tankard,</hi>
+                  </item>
+                  <pb facs="tcp:169885:7"/>
+                  <item>Secondly, the <hi>Black-Jack.</hi>
+                  </item>
+                  <item>Thirdly, the <hi>Quart-pot</hi> rib'd, or <hi>Thorondell.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Those of the new, be these.
+<list>
+                  <item>First, the <hi>Jug.</hi>
+                  </item>
+                  <item>Secondly, the <hi>Beaker.</hi>
+                  </item>
+                  <item>Thirdly, the <hi>double</hi> or <hi>single Can</hi> or <hi>Black<g ref="char:EOLhyphen"/>pot.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>You hear what the books most in use a<g ref="char:EOLhyphen"/>mong them are, it follows now, as a thing necessary, to make known unto you what the professors be, or at least what titles they have amongst them.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>He that wéeps in his cups, and is Maudlen drunk,</cell>
+                     <cell rows="8">Sudies</cell>
+                     <cell>
+                        <hi>Hydromancie.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that Laughs and Talks much,</cell>
+                     <cell>
+                        <hi>Natural Phi<g ref="char:EOLhyphen"/>losophy.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that gives good counsel,</cell>
+                     <cell>
+                        <hi>Morality.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that builds Castles in the Air,</cell>
+                     <cell>
+                        <hi>Metaphisicks.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that sings in his drink,</cell>
+                     <cell>
+                        <hi>Musick.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that disgorgeth his sto<g ref="char:EOLhyphen"/>mack,</cell>
+                     <cell>
+                        <hi>Physick.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that brags of his tra<g ref="char:EOLhyphen"/>vels.</cell>
+                     <cell>
+                        <hi>Cosmogra<g ref="char:EOLhyphen"/>phy,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that rimes ex tempore, or speaks Play-spéeches.</cell>
+                     <cell>
+                        <hi>Poetry.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:169885:7"/>
+            <p>
+               <table>
+                  <row>
+                     <cell>He that cries Tril-lil boys is a</cell>
+                     <cell>
+                        <hi>Rhetorician.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that cals his fellow Drun<g ref="char:EOLhyphen"/>kard, a</cell>
+                     <cell>
+                        <hi>Logician.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that proves his argument by a Pamphlet or Ballad, a</cell>
+                     <cell>
+                        <hi>Grammarian.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that rubs of his score with his elbow, hat, or cloak, an</cell>
+                     <cell>
+                        <hi>Arithmetician.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that knocks his head a<g ref="char:EOLhyphen"/>gainst a post, then looks up to the Skie, an</cell>
+                     <cell>
+                        <hi>Astronomer.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that réels from one side of the channel to another, a</cell>
+                     <cell>
+                        <hi>Geometrician.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that going hemewards fals into a ditch or chanel, a</cell>
+                     <cell>
+                        <hi>Navigator.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that looseth himself in his discourse, a</cell>
+                     <cell>
+                        <hi>Mooter.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that brawls and wrangles in his cups, a</cell>
+                     <cell>
+                        <hi>Barrester.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that loves to drink in hug<g ref="char:EOLhyphen"/>ger-mugger, a</cell>
+                     <cell>
+                        <hi>Bencher. young Student.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that drinks to al cōmers, a</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>He that hath no money in his purse, but drinks on trust a</cell>
+                     <cell>
+                        <hi>Merchant venturer.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that in his wine is no<g ref="char:EOLhyphen"/>thing els but complement, a</cell>
+                     <cell>
+                        <hi>Civilian.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that drinks and forgets to whom, is said to study the</cell>
+                     <cell>
+                        <hi>Art of Memory</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:169885:8"/>
+            <p> Phrases borrowed from several Courts, with places of Dignity both Civil, and Martial.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>He y<seg rend="sup">t</seg> plucks his friend or ac<g ref="char:EOLhyphen"/>quaintance into a Tavern or tipling-house perforce, is call'd a</cell>
+                     <cell>
+                        <hi>Sergeant.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that quarrels with his Hostesse, and cals her Whore,</cell>
+                     <cell>
+                        <hi>Puts in his Declaration.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hee that is silent or tongue-tied in his cups, is said to</cell>
+                     <cell>
+                        <hi>Demur upon the Plaintiff.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that ingrosseth all the talk to himself, is call'd</cell>
+                     <cell>
+                        <hi>Foreman of the Jury.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that with his loud talk deafens all the company,</cell>
+                     <cell>
+                        <hi>Cryer of the Court.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that takes upon him to make the reckon<g ref="char:EOLhyphen"/>ing,</cell>
+                     <cell>
+                        <hi>Pronounceth Judgement.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that wants money, and another man pays for is</cell>
+                     <cell>
+                        <hi>Quit by Proclamation.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that gives his Host or Hostesse a Bill of his hand, is said to be</cell>
+                     <cell>
+                        <hi>Sav'd by his Clergy</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb facs="tcp:169885:8"/>He that is so free that he will pledge all commers,</cell>
+                     <cell>
+                        <hi>Attourney General.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that wears a night<g ref="char:EOLhyphen"/>cap having been sick of a Surfeit,</cell>
+                     <cell>
+                        <hi>Sergeant of the Coyffe.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that is observed to be drunk but once a week</cell>
+                     <cell>
+                        <hi>An ordinary Pursevant.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that takes his rowse freely but once in a moneth, a</cell>
+                     <cell>
+                        <hi>Sub-Sheriffe.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that healths it but once in a Quarter, a</cell>
+                     <cell>
+                        <hi>Justice of Peace.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>And he that takes his rowse but twice a year,</cell>
+                     <cell>
+                        <hi>Judge of a Circuit.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>There be likewise belonging to this Art, or Science divers places of respect and dig<g ref="char:EOLhyphen"/>nity, both Civil and Martial; of the Civil first.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>He that is unruly in his cups, swaggers, and flings pots and drawers down stairs, breaks glasses, and
+<pb facs="tcp:169885:9"/> beats y<seg rend="sup">e</seg> fidlers about the room, they call by y<seg rend="sup">e</seg> name of</cell>
+                     <cell>
+                        <hi>Major Domo.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that cuts down signs bushes or lettices</cell>
+                     <cell>
+                        <hi>Master Controuler.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that can win the fa<g ref="char:EOLhyphen"/>vour of the hostesses daughter to lie with her,</cell>
+                     <cell>
+                        <hi>Principal Secretary.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that stands upon his strength, and begins new healths,</cell>
+                     <cell>
+                        <hi>Mr. of the Ceremonies.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that is the first to begin new frolicks,</cell>
+                     <cell>
+                        <hi>Mr. of the Novelties.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that flings Cushi<g ref="char:EOLhyphen"/>ons, Napkins, and Trenchers about the room,</cell>
+                     <cell>
+                        <hi>Mr. of Mis-rule.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that wanting mony is forr'd to pawn his Cloak,</cell>
+                     <cell>
+                        <hi>Master of the Wardrobe.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that calls for Rash<g ref="char:EOLhyphen"/>ers pickle-Disters, or Anchova's,</cell>
+                     <cell>
+                        <hi>Clerk of the Kitchin,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that talks much, and speakes non<g ref="char:EOLhyphen"/>sence, is called a</cell>
+                     <cell>
+                        <hi>Proctour.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb facs="tcp:169885:9"/>He that tels tedious and long tales,</cell>
+                     <cell>
+                        <hi>Register.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that takes the tale out of another mans mouth,</cell>
+                     <cell>
+                        <hi>Publick Notary.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>The Martiall degrees follow in the next place; and their order thus.
+<table>
+                  <row>
+                     <cell>He that drinks in his boots, and gingling<g ref="char:EOLhyphen"/>spurs, is called a</cell>
+                     <cell>
+                        <hi>Collonel of a Regiment.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that drinks in silk<g ref="char:EOLhyphen"/>stockings, and silk<g ref="char:EOLhyphen"/>garters</cell>
+                     <cell>
+                        <hi>Captain of a Foot-Company.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that flings pottle and quart pots down stairs,</cell>
+                     <cell>
+                        <hi>Marshall of the Field.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that begins three healths together to go round the table,</cell>
+                     <cell>
+                        <hi>Master of the Ordnance.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that calls first in al the company for a Looking-glasse,</cell>
+                     <cell>
+                        <hi>Camp-Master.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that waters the fag<g ref="char:EOLhyphen"/>gots by pissing in the Chtmney,</cell>
+                     <cell>
+                        <hi>Corporall of the field.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb facs="tcp:169885:10"/>He that thunders in room and beats the Drawers,</cell>
+                     <cell>
+                        <hi>Drum Major.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that looks red, and colors in his drink,</cell>
+                     <cell>
+                        <hi>Ensign-Bearer.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that thrusts himself into company, and hangs upon others,</cell>
+                     <cell>
+                        <hi>Gentleman of a Com<g ref="char:EOLhyphen"/>pany.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that keeps compa<g ref="char:EOLhyphen"/>ny and hath but two pence to spend,</cell>
+                     <cell>
+                        <hi>Lansprizado.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that pockets up gloves, knives, or Handkerchers,</cell>
+                     <cell>
+                        <hi>Sutler.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that drinks three days together with. out respits,</cell>
+                     <cell>
+                        <hi>An Old-Souldier.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that swears and lies in his drink.</cell>
+                     <cell>
+                        <hi>An Intelligencer.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <div type="part">
+               <head>
+                  <hi>Of their Sea-service: Their new terms for new Paradoxes,</hi> &amp;c.</head>
+               <p>Having past the degrees, both Civill, and Mar<g ref="char:EOLhyphen"/>tiall. It follows in the next place, that we come to take a view of the Sea, or rather, Seller-ser<g ref="char:EOLhyphen"/>vice; of which we have already made this Quere.</p>
+               <pb facs="tcp:169885:10"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>He that having over<g ref="char:EOLhyphen"/>drunk himself of<g ref="char:EOLhyphen"/>fers his stomack, in his next fellows Boots or Shooes they call.</cell>
+                        <cell>
+                           <hi>Admirall of the Narrow-Seas,</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that pisseth under the Table to offend their shoes or stoc<g ref="char:EOLhyphen"/>kings,</cell>
+                        <cell>
+                           <hi>Vice-Admirall.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that is first flau'd in the company be<g ref="char:EOLhyphen"/>fore the rest.</cell>
+                        <cell>
+                           <hi>Master of a Ship.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that is the second, that is drunk at the Table,</cell>
+                        <cell>
+                           <hi>Masters-Mate.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that slovenly spil<g ref="char:EOLhyphen"/>leth his drink upon the Table.</cell>
+                        <cell>
+                           <hi>Swabber.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that privately and closely stealeth his liquor.</cell>
+                        <cell>
+                           <hi>Pyrat of the Narrow-Seas.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that is suddenly ta<g ref="char:EOLhyphen"/>ken with the hitch<g ref="char:EOLhyphen"/>up,</cell>
+                        <cell>
+                           <hi>Master Gunner.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that is still smoa<g ref="char:EOLhyphen"/>king with the pipe at his nose,</cell>
+                        <cell>Flute.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <pb facs="tcp:169885:11"/>He that belcheth either backward or forward,</cell>
+                        <cell>
+                           <hi>Trumpeter.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>I come now to the penal Statutes enact<g ref="char:EOLhyphen"/>ed for divers forfeitures, upon most grave and mature deliveration, as followeth.</p>
+               <p>
+                  <hi>No man must call a Good-fellow Drunkard, for that is a name of reproach and indignity, as quite extermin'd out of their learned Society: But if at any time they spie that defect one in a<g ref="char:EOLhyphen"/>nother, they may without any forfeit or just excep<g ref="char:EOLhyphen"/>tions taken, say. He is Foxt, He is Flaw'd, He is Fluster'd, He is Suttle. Cupshot, Cut in the Leg or Back, He hath seen the French King, He hath swallowed an Hair or a Tavern-Token, He hath whipt the Cat, He hath been at the Scrive<g ref="char:EOLhyphen"/>ners and learned to make Indentures, He hath bit his Grannam, or is bit by a Barn Weasel, with an hundred such like adages and sentences, ex<g ref="char:EOLhyphen"/>tracted out of the most Authentick Authors in their Library,</hi>
+               </p>
+               <p>
+                  <table>
+                     <head>Sundry Terms and Titles proper to their young Students.</head>
+                     <row>
+                        <cell>He that makes himself a laughing stock to the whole company, is call'd a</cell>
+                        <cell>
+                           <hi>Tenant in Fee-simple.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <pb facs="tcp:169885:11"/>He that will be still smowching and kis<g ref="char:EOLhyphen"/>sing his hostesse be<g ref="char:EOLhyphen"/>hind the door,</cell>
+                        <cell>
+                           <hi>Tenant in-tail special.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that will be stil kis<g ref="char:EOLhyphen"/>sing all commers in</cell>
+                        <cell>
+                           <hi>Tenant in-tail general.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that is three parts fort, and will be kis<g ref="char:EOLhyphen"/>sing,</cell>
+                        <cell>
+                           <hi>Tenant in-tail after possibility of Issue extinct.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that is permitted to take a nap, and to sleep,</cell>
+                        <cell>
+                           <hi>Tenant by the curtesie De Angliter.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>If two or three women meet twice or thrice a week, to take Gos<g ref="char:EOLhyphen"/>sips cups, they are</cell>
+                        <cell>
+                           <hi>Tenants in dower.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that hath the dispo<g ref="char:EOLhyphen"/>sing of a donative a<g ref="char:EOLhyphen"/>mongst his comrades,</cell>
+                        <cell>
+                           <hi>Tenant in Frank-Al<g ref="char:EOLhyphen"/>main.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He whose head seems heavier than his heels, holds in</cell>
+                        <cell>
+                           <hi>Capite.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He whose heels are hea<g ref="char:EOLhyphen"/>vier than his head, holds in</cell>
+                        <cell>
+                           <hi>Soccadge.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>All Gentlemen-Drun<g ref="char:EOLhyphen"/>kards, Schollers and Souldiers, hold in</cell>
+                        <cell>
+                           <hi>Knights service.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <pb facs="tcp:169885:12"/>He that drinks nothing but Sack, and <hi>Aqua<g ref="char:EOLhyphen"/>vitae,</hi> holds by</cell>
+                        <cell>
+                           <hi>Grand serientry.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that drinks onely Ale or Béer, holds by</cell>
+                        <cell>
+                           <hi>Petit serientry.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that drinks uncover<g ref="char:EOLhyphen"/>ed, with his head bare,</cell>
+                        <cell>
+                           <hi>Tenders his homage.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that humbles him<g ref="char:EOLhyphen"/>self to drink on his knée,</cell>
+                        <cell>
+                           <hi>Doth his fealty.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that hūteth the Ta<g ref="char:EOLhyphen"/>verns, or Tap-houses when he comes first to age,</cell>
+                        <cell>
+                           <hi>Pays his relief.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that hath sold and morgaged all the Land he hath,</cell>
+                        <cell>
+                           <hi>Sueth for his Livery.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He whose wife goeth with him to the Ta<g ref="char:EOLhyphen"/>vern or Ale-house, is</cell>
+                        <cell>
+                           <hi>A Free-holder.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He whose wife useth to fetch him home from the Library, is a</cell>
+                        <cell>
+                           <hi>Tenant at will.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that articles with his hostesse about the reckoning, is a</cell>
+                        <cell>
+                           <hi>Copy-holder.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>He that staggering sup<g ref="char:EOLhyphen"/>ports himself by a
+<pb facs="tcp:169885:12"/> wall or a post, holds by the</cell>
+                        <cell>
+                           <hi>Verge.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Certain learned Proverbs, and proper Phrases be<g ref="char:EOLhyphen"/>longing to the Library,</head>
+               <p>As to drink Vpse-phreese, Supernaculum, to swallow a Slap-dragon, or a raw Egg: Then to see that no lesse than three at once be bare to a health. And of Proverbs, these and the like.</p>
+               <p>He that drinks red, gains by the colour. A pound of care will not pay an ounce of debt. A raw stomack makes a rumatick head, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Divers stories of such whom immoderate Drink<g ref="char:EOLhyphen"/>ing hath made ridiculous.</head>
+               <p>A Serving-man much overtaken with wine, when he perceived that he could bear no more, stole out of the Tavern by a back<g ref="char:EOLhyphen"/>door, and passing through a dark and narrow lane, late in the night, when the Moon shined very bright and clear, and at length comming to crosse <hi>Cheap-side,</hi> to go into <hi>Friday-street,</hi> he presently began to apprehend that the sha<g ref="char:EOLhyphen"/>dow in which he stood, was the shore, and the Moon-shine a River, (for he divertly conceit<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:169885:13"/> it to be water) therefore he first called a<g ref="char:EOLhyphen"/>loud, a Boat, a Boat but hearing none to make him answer (for who would but ima<g ref="char:EOLhyphen"/>gine him to be some drunkard or madman) he next be thought himself, it might be possi<g ref="char:EOLhyphen"/>ble for him to wade over, in which conceit he laid by his cloak, plucke off his Boots and Stockings, and then his Breeches: when drawing up his shirt to the highest, he laid the rest of the luggage upon his shoulders, and staying himself upon his Sword, put on foot first softly into the Moon-shine, and finding the Channel firm under him, he adventured the other; and wading further, and further, in great fear and supposed difficulty, at last got over to the Shore, and then fell devoutly to his prayers thanking those powers who had granted unto him such a happy and safe passage. The Watch, sitting close, sée<g ref="char:EOLhyphen"/>ing and perceiving all that was done and said, let him alone till he had wiped himself dry and put on his cloaths, and then shew<g ref="char:EOLhyphen"/>ed themselves, and sold him they were Water-men and came to row him back a<g ref="char:EOLhyphen"/>gain to the Counter, which they would have done, had not the Constable of milder temper, and being well pleased with the jest stayed them, and commanded one or
+<pb facs="tcp:169885:13"/> two of them to see him safe at his lodg<g ref="char:EOLhyphen"/>ing.</p>
+               <p>Another Drunkard comming homeward late over the fields, thinking to passe a bridg, slipt into the ditch, where he stood knee déep in water, and not able to get out, in that po<g ref="char:EOLhyphen"/>sture fell fast asléep; towards morning one passing that way heard him first muttering and grumbling to himself, at length, tur<g ref="char:EOLhyphen"/>ning to one side, he said, aloud, thou Whore, why doest thou not lay more cloathes upon my feet?</p>
+               <p>Before the old Exchange was built, the Merchants kept their meeting in <hi>Lombard<g ref="char:EOLhyphen"/>street,</hi> whare dwelt a plain honest old man, called Father <hi>Garret,</hi> who having plaid the good-fellow a whole night together amongst his Countreymen (which was not usual) and drinking a Cup or two too much, it was morning before his wife and maid could get him into his warm bed where he slept sound<g ref="char:EOLhyphen"/>ly; and waking about noon (his eys being gumm'd together, so that he could not well open them) he groped by the beds-side for the Chamber-pot, and perceiving it to be full, he rose up, opened the Casement (which
+<pb facs="tcp:169885:14"/> was toward the street) and powred it out upon some of the Merchants heads, who after they had well shook their hats and cloaks, called to him by his name, and said; Why how now Father <hi>Garret,</hi> what do you mean by this? who putting his head again out at the window, made them this answer; <hi>Mar<g ref="char:EOLhyphen"/>ry it is to teach you for walking abroad so late at midnight.</hi>
+               </p>
+               <p>If was somewhat more wittily put off by him, who living in a Chamber, over-heard where the watch was set beneath and empti<g ref="char:EOLhyphen"/>ed a Chamber-pot upon their heads; who calling unto him, and asking him why he had used them so slovenly, he demanded of them, Who they were that questioned it? They told him they were the Watch: why then saith he, <hi>Harm watch, harm catch,</hi> and so shut to the Casement.</p>
+               <p>A Loader or Miller in the Country was such a notorious swaggerer, and so danger<g ref="char:EOLhyphen"/>ous in his drink, that none of the Towns<g ref="char:EOLhyphen"/>men durst keep him company, unlesse he would first put off his great basket hilt dag<g ref="char:EOLhyphen"/>ger (which was a swords fellow, and still wore about him) and lay it by; which at their
+<pb facs="tcp:169885:14"/> request he upon a time had done; the fashi<g ref="char:EOLhyphen"/>on was to wear great broad Bolts of Lea<g ref="char:EOLhyphen"/>ther, buckled about their wastes: They ha<g ref="char:EOLhyphen"/>ving drunk their dozens round, and he among the rest being flusterd, the motion was made to break up company; when the rest rose, he sitting upon the Bench side, and groping for his Dagger behind, he happened upon a Ior<g ref="char:EOLhyphen"/>dane that was brim full, and putting the end of his Belt through the handle of it, buckled it about him in the stead of his weapon, and so walking without a cloak through the street in the day time, all the Boys and Girls ran hollowing after him so look behind him; <hi>For his dagger dropt out of the Scabbard.</hi>
+               </p>
+               <p>Another comming from <hi>Southwark</hi> at a ve<g ref="char:EOLhyphen"/>ry late hour over the Bridge, justled against one of the Chain-posts over against S. Mag<g ref="char:EOLhyphen"/>nus Church, who being naturally very quar<g ref="char:EOLhyphen"/>relsome in his cups, supposed that some night<g ref="char:EOLhyphen"/>walker had given him that affront; and there<g ref="char:EOLhyphen"/>fore very desperately drew forth his Dagger, and by great fortune strook into the very hol<g ref="char:EOLhyphen"/>low of the post, and perceiving it to give way, made no further questiō but he had slain the party: With the sudden apprehension whereof, he leaves the weapon in the wood,
+<pb facs="tcp:169885:15"/> presently begins to devise of some sudden shift to save his own forfeit life: he dares not go home to his house, and knows no man whom he may trust with such a secret: therefore he presently takes boat, down he goes that night to <hi>Graves, end,</hi> and from thence gets shipping into the <hi>Low-countreys.</hi> The weapon was found the next morning in the post, and was known, and the owner thereof mist by his wife and friends, but not to be heard of. Af<g ref="char:EOLhyphen"/>ter a twelve-moneth, notice being given to his wife, where he lived, and by circumstan<g ref="char:EOLhyphen"/>ces being possest of the mistake, he came o<g ref="char:EOLhyphen"/>ver like an Asse as he went and was a <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eer to the City, his whole life after.</p>
+               <p>Certain Gentlemen using much to our Taverns some of them affecting Tables, their custome was still when they met to play at <hi>Irish,</hi> or <hi>Tictack,</hi> and whatsoever the stake was, to call in Wine, because they would not charge the house, so that the stand<g ref="char:EOLhyphen"/>ers by might drink freely of the Gamesters cost, and thus sometimes they would spend the whole night. Amongst the rest, one ob<g ref="char:EOLhyphen"/>served to be a shark, that would save his purse, but could never be drawn into any game, or expences, and yet would devour more Wine
+<pb facs="tcp:169885:15"/> than any two in the company, and whilest the rest were either busie all playing, or look<g ref="char:EOLhyphen"/>ing on, he would be still tampering with the cups, till he had stolen himself drunk, and then he would fall asleep in the room. This being noted by the rest whilest he was ta<g ref="char:EOLhyphen"/>king a sound nap in a chair, they devised to put a trick upon him, and watching his wa<g ref="char:EOLhyphen"/>king, they suddenly put out all the lights in the room, and still pretended to hold on their Game: the Dice run the Table-men walk, the standers by bet, some on this side, some on that, every cast was named as it was thrown, all which he heard, but saw nothing: This Ieast was held up so long, and carri<g ref="char:EOLhyphen"/>ed so well that he presently apprehended, that he was struck blind, and quite bereft the use of his eyes, and so sell into a great passion and clamour: The Gentle<g ref="char:EOLhyphen"/>men came about him, and feigned to wonder what he meaned, bid him look up, and be of good chear, he told them, he knew them by their tongues, but could not discern any one of their faces: at which they seemed to be the more amazed, and so concluded, that he was miraculously deprived of his eye sight, still they called for more lights, more lights; another
+<pb facs="tcp:169885:16"/> answered, there were six in the room already, and if not by them, he could never see at all: one offers to lead him another began to shrive him, perswading him, that sure this judge<g ref="char:EOLhyphen"/>ment was fallen upon him for some great sin he had committed; some he remembred and confest: sure, saith another, he hath been a great sparer of his purse, a stealer of his drink and a dissembler with his friend, none of which he denies. At length, when they had got out of him what they could, and jeered him (as they thought) sufficiently, they sud<g ref="char:EOLhyphen"/>denly caused lights to be brought in, by which finding how he was gull'd, he grew s<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> asha<g ref="char:EOLhyphen"/>med, that he who was before a burthen to them, could never after be seen in their com<g ref="char:EOLhyphen"/>pany.</p>
+               <p>I knew a Citizen and a substantiall hous<g ref="char:EOLhyphen"/>keeper, who having been drinking late could not find his own door, and though he knew the streets and the posts that stood at other mens gates, and how far distant his house was from them, yet still he rather came short of it or past beyond it; at length (loath to be noted, but more loath to lie upon the stall) he perceived a light in one of his neighbours windows, he raps at the dores, the good man
+<pb facs="tcp:169885:16"/> (being upon some occasion late up at that time) looked out of the window, &amp; asked who was there? and what he would have? No<g ref="char:EOLhyphen"/>thing good friend (answered he) but onely to intreat you to direct me where such a man dwels, (naming himself) and shew me his house; his Neighbour knowing him replied, calling him by his name, I hope no man knoweth that, or at least should know it bet<g ref="char:EOLhyphen"/>ter then your self: True it is saith he, but not at this time; so his neighbour perceiving in what case he was came down, opened the door, and light him over the way, which how<g ref="char:EOLhyphen"/>soever it was secretly carried, yet made his intemperance palpable, even after mid<g ref="char:EOLhyphen"/>night.</p>
+               <p>A Malt-man comming reeling at noon day from a Red-lattice, wearing about his waste a leathern Belt, buckled before with a thong hanging down, went to turn to the wall, and standing about a yard from thence, screw'd his head on the one side to set who went and passed by; and putting his hand down to grope for somthing to shew the wal, he mist of his aim, and lighted on his thong that hung down, held it out betwixt his fin<g ref="char:EOLhyphen"/>gers, &amp; pissed in his breeches; the people that
+<pb facs="tcp:169885:17"/> saw the water drop down by his knees, grew to a generall laughter; by which he finding the mistake grew sensible of the plight he was in, and so ashamed, staggered away as fast as he could, like a drunken Coxcomb.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
